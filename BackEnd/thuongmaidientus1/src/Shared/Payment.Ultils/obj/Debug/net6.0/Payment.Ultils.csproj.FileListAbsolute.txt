@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\ThuongMaiDienTus1\src\Shared\Payment.Ultils\bin\Debug\net6.0\Payment.Ultils.deps.json
+C:\Users\ASUS\source\repos\ThuongMaiDienTus1\src\Shared\Payment.Ultils\bin\Debug\net6.0\Payment.Ultils.dll
+C:\Users\ASUS\source\repos\ThuongMaiDienTus1\src\Shared\Payment.Ultils\bin\Debug\net6.0\Payment.Ultils.pdb
+C:\Users\ASUS\source\repos\ThuongMaiDienTus1\src\Shared\Payment.Ultils\obj\Debug\net6.0\Payment.Ultils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\ThuongMaiDienTus1\src\Shared\Payment.Ultils\obj\Debug\net6.0\Payment.Ultils.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ThuongMaiDienTus1\src\Shared\Payment.Ultils\obj\Debug\net6.0\Payment.Ultils.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ThuongMaiDienTus1\src\Shared\Payment.Ultils\obj\Debug\net6.0\Payment.Ultils.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ThuongMaiDienTus1\src\Shared\Payment.Ultils\obj\Debug\net6.0\Payment.Ultils.dll
+C:\Users\ASUS\source\repos\ThuongMaiDienTus1\src\Shared\Payment.Ultils\obj\Debug\net6.0\refint\Payment.Ultils.dll
+C:\Users\ASUS\source\repos\ThuongMaiDienTus1\src\Shared\Payment.Ultils\obj\Debug\net6.0\Payment.Ultils.pdb
+C:\Users\ASUS\source\repos\ThuongMaiDienTus1\src\Shared\Payment.Ultils\obj\Debug\net6.0\ref\Payment.Ultils.dll

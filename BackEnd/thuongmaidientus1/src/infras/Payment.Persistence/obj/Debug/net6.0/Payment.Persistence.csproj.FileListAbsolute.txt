@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\ThuongMaiDienTus1\src\infras\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.deps.json
+C:\Users\ASUS\source\repos\ThuongMaiDienTus1\src\infras\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.dll
+C:\Users\ASUS\source\repos\ThuongMaiDienTus1\src\infras\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.pdb
+C:\Users\ASUS\source\repos\ThuongMaiDienTus1\src\infras\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\ThuongMaiDienTus1\src\infras\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ThuongMaiDienTus1\src\infras\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ThuongMaiDienTus1\src\infras\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ThuongMaiDienTus1\src\infras\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.dll
+C:\Users\ASUS\source\repos\ThuongMaiDienTus1\src\infras\Payment.Persistence\obj\Debug\net6.0\refint\Payment.Persistence.dll
+C:\Users\ASUS\source\repos\ThuongMaiDienTus1\src\infras\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.pdb
+C:\Users\ASUS\source\repos\ThuongMaiDienTus1\src\infras\Payment.Persistence\obj\Debug\net6.0\ref\Payment.Persistence.dll
